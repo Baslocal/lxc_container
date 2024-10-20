@@ -3,9 +3,9 @@
 ## Overview
 
 Tired of manually checking IP addresses and port numbers for your LXC containers? This script automates that by listing useful infomatoon whenever you log into your LXC.
- streamlines system management by providing a quick overview of system status, security insights, performance metrics, network information, and maintenance requirements.
- By automating the collection and display of crucial system data, ActionPak saves time and effort. Additionally, its customizable nature, cross-distribution compatibility,
- and educational value make it a versatile and user-friendly tool for both experienced users and those new to Linux.
+Streamlines system management by providing a quick overview of system status, security insights, performance metrics, network information, and maintenance requirements.
+By automating the collection and display of crucial system data, ActionPak saves time and effort. Additionally, its customizable nature, cross-distribution compatibility,
+and educational value make it a versatile and user-friendly tool for both experienced users and those new to Linux.
 
 ![Pasted Graphic 4](https://github.com/user-attachments/assets/7860c376-545e-4f9f-be75-2e66b65b4ef0)
 
