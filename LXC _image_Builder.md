@@ -25,7 +25,7 @@ The script is designed to work in a Proxmox Virtual Environment. Here's a snapsh
 
 <img width="1043" alt="Pasted Graphic 2" src="https://github.com/user-attachments/assets/9bb13fd3-1a2a-4376-b558-54977bc73978">
 
-## Script
+## Script (Copy and Paste)
 
 Here's the bash script that performs the LXC image building process:
 
